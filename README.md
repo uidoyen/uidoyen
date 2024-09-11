@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Ashique Ansari
+
+## Software Engineer | Full Stack Developer
+
+I am an India-based Software Engineer specializing in end-to-end software development, with a primary focus on crafting clean user interfaces and robust, high-performance backend services. With a meticulous approach to problem-solving, I consistently strive to deliver resilient and efficient software solutions.
+
 
 <!--
 **uidoyen/uidoyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
