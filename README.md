@@ -2,7 +2,8 @@
 
 ## Software Engineer | Full Stack Developer
 
-I am an India-based Software Engineer specializing in end-to-end software development, with a primary focus on crafting clean user interfaces and robust, high-performance backend services. With a meticulous approach to problem-solving, I consistently strive to deliver resilient and efficient software solutions.
+A Senior Software Engineer with 11+ years of experience in architecting scalable, high-performance web applications using  React, Next.js,  Redux, JavaScript and Node.js. Expert in building enterprise-grade solutions with clean code architecture, optimised performance and exceptional user experience. Proven track record leading cross-functional teams in Agile environments mentoring developers and delivering impactful solutions across web and mobile platforms through modern development practices and technical excellence. ![Uploading image.png…]()
+
 
 
 <!--
