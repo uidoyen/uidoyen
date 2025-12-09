@@ -1,6 +1,6 @@
 ## Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Ashique Ansari
 
-## Software Engineer | Full Stack Developer
+## Sr. Software Engineer | Full Stack Developer
 
 A Senior Software Engineer with 11+ years of experience in architecting scalable, high-performance web applications using  React, Next.js,  Redux, JavaScript and Node.js. Expert in building enterprise-grade solutions with clean code architecture, optimised performance and exceptional user experience. Proven track record leading cross-functional teams in Agile environments mentoring developers and delivering impactful solutions across web and mobile platforms through modern development practices and technical excellence. ![Uploading image.png…]()
 
